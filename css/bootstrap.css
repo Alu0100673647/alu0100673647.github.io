@@ -263,8 +263,8 @@ th {
 @font-face {
   font-family: 'Glyphicons Halflings';
 
-  src: url('https://github.com/Alu0100673647/alu0100673647.github.io/blob/master/bootstrap/fonts/glyphicons-halflings-regular.eot');
-  src: url('https://github.com/Alu0100673647/alu0100673647.github.io/blob/master/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('https://github.com/Alu0100673647/alu0100673647.github.io/blob/master/bootstrap/font-awesome/fonts/fontawesome-webfont.woff') format('woff2'), url('https://github.com/Alu0100673647/alu0100673647.github.io/blob/master/bootstrap/font-awesome/fonts/fontawesome-webfont.woff') format('woff'), url('https://github.com/Alu0100673647/alu0100673647.github.io/blob/master/bootstrap/font-awesome/fonts/fontawesome-webfont.ttf') format('truetype'), url('https://github.com/Alu0100673647/alu0100673647.github.io/blob/master/bootstrap/font-awesome/fonts/fontawesome-webfont.svg#glyphicons_halflingsregular') format('svg');
+  src: url('https://github.com/Alu0100673647/alu0100673647.github.io/blob/master/fonts/glyphicons-halflings-regular.eot');
+  src: url('https://github.com/Alu0100673647/alu0100673647.github.io/blob/master/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('https://github.com/Alu0100673647/alu0100673647.github.io/blob/master/bootstrap/font-awesome/fonts/fontawesome-webfont.woff') format('woff2'), url('https://github.com/Alu0100673647/alu0100673647.github.io/blob/master/bootstrap/font-awesome/fonts/fontawesome-webfont.woff') format('woff'), url('https://github.com/Alu0100673647/alu0100673647.github.io/blob/master/bootstrap/font-awesome/fonts/fontawesome-webfont.ttf') format('truetype'), url('https://github.com/Alu0100673647/alu0100673647.github.io/blob/master/bootstrap/font-awesome/fonts/fontawesome-webfont.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
